@@ -24,3 +24,12 @@ This is a Data Science free course for beginners by Simplilearn. It takes seven 
 1. Data science jobs skills salary
 1. Data science engineer resume
 1. Data science interview questions
+
+### Lesson 1: How to complete a data science project?
+1. Understand the business problem via questions.
+1. Data acquisition: gather data from web servers, logs, databases, APIs, online repos.
+1. Data preparation: data cleaning (check inconsistent datatypes, misspelled attributes, missing and duplicate values) and transformation (tools used are talend and informatica).
+1. Exploratory data analysis: defines and refines the selection of feature variables that will be used in the model development. This is the important step.
+1. Data modeling: applying different ML algorithms such as KNN, decision tree, naive bayes to identify the model that best fit the business requirement. Then train the models on the training dataset and test. Follewed by selecting the best performing model. Languages used are Python, R, and SAS.
+1. Visualization and communication: tools used Tableau, PowerBI, and QlikView to create powerful reports and dashboards.
+1. Deployment and maintenance: select the model and deploy it in the pre-production environment then in the production environment. Then use and reports and dashboards to get real time analytics and monitor performance.
