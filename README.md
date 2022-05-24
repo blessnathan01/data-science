@@ -33,3 +33,5 @@ This is a Data Science free course for beginners by Simplilearn. It takes seven 
 1. Data modeling: applying different ML algorithms such as KNN, decision tree, naive bayes to identify the model that best fit the business requirement. Then train the models on the training dataset and test. Follewed by selecting the best performing model. Languages used are Python, R, and SAS.
 1. Visualization and communication: tools used Tableau, PowerBI, and QlikView to create powerful reports and dashboards.
 1. Deployment and maintenance: select the model and deploy it in the pre-production environment then in the production environment. Then use and reports and dashboards to get real time analytics and monitor performance.
+
+Author: [Blessing Rweikiza](https://linktr.ee/blessnathan01)
